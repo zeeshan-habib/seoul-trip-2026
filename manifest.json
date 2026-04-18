@@ -1,0 +1,15 @@
+{
+  "short_name": "SeoulTrip",
+  "name": "Seoul Solo Adventure",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/seoul-trip-2026/",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "theme_color": "#0f172a"
+}
